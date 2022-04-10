@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
+import { Provider, connect } from 'react-redux';
 import 'tachyons';
 import App from './containers/App';
 
