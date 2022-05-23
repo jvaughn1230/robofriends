@@ -1,13 +1,13 @@
-#Robofriends
+# Robofriends
 
-##Description
+## Description
 App that allows users to search through a list of "Robofriends" supplied from an API. 
 
 Project was built to practice the fundamentals of React and Redux. The tachyons library was used for styling of project. 
 
 Robofriends from https://robohash.org
 
-##Depndencies
+## Depndencies
 React, Redux, Tachyons
 
 # Getting Started with Create React App
