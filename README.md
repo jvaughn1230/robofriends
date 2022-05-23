@@ -7,7 +7,7 @@ Project was built to practice the fundamentals of React and Redux. The tachyons 
 
 Robofriends from https://robohash.org
 
-## Depndencies
+## Dependencies
 React, Redux, Tachyons
 
 # Getting Started with Create React App
